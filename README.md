@@ -22,8 +22,6 @@ project
     │   │
     │   ├─ Elevators
     │   ├─ Door
-    │   ├─ Button
-    │   ├─ Button
     │   └─ Button
     │
     ├─ constants
@@ -44,4 +42,3 @@ npm run dev
 # or
 yarn dev
 ```
-# elevator-fe
